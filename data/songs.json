@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Noite Sem Volta",
+    "year": 2026,
+    "style": "Dark Trap",
+    "category": "Single",
+    "description": "Single sombrio com 808 pesado, synths tensos e refrão feito para palco.",
+    "links": {
+      "spotify": "https://open.spotify.com/",
+      "soundcloud": "https://soundcloud.com/",
+      "youtube": "https://www.youtube.com/"
+    }
+  },
+  {
+    "name": "Cinza no Asfalto",
+    "year": 2026,
+    "style": "Rap",
+    "category": "Single",
+    "description": "Rap direto, urbano e cinematográfico, com bateria seca e atmosfera de rua.",
+    "links": {
+      "spotify": "https://open.spotify.com/",
+      "soundcloud": "",
+      "youtube": "https://www.youtube.com/"
+    }
+  },
+  {
+    "name": "Subsolo 13",
+    "year": 2025,
+    "style": "Boom Bap",
+    "category": "Produção",
+    "description": "Beat boom bap de textura suja, sample recortado e caixa agressiva.",
+    "links": {
+      "spotify": "",
+      "soundcloud": "https://soundcloud.com/",
+      "youtube": "https://www.youtube.com/"
+    }
+  },
+  {
+    "name": "Ritual de Neon",
+    "year": 2025,
+    "style": "Trap",
+    "category": "Produção",
+    "description": "Produção melódica para artista convidado, com camadas de voz e drop marcante.",
+    "links": {
+      "spotify": "https://open.spotify.com/",
+      "soundcloud": "",
+      "youtube": ""
+    }
+  },
+  {
+    "name": "Frequência Fantasma",
+    "year": 2024,
+    "style": "Experimental",
+    "category": "Single",
+    "description": "Faixa instrumental de clima industrial, ideal para intro de show ou visualizer.",
+    "links": {
+      "spotify": "",
+      "soundcloud": "https://soundcloud.com/",
+      "youtube": "https://www.youtube.com/"
+    }
+  }
+]

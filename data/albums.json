@@ -1,0 +1,121 @@
+[
+  {
+  "name": "Poder Paralelo",
+  "year": "2026",
+  "status": "lançado",
+  "cover": "Capa Poder Paralelo.png",
+  "links": {
+    "spotify": "https://found.ee/httpsfoundeePoderParalelo"
+  }
+},
+ {
+  "name": "NIGHTMARE",
+  "year": "2026",
+  "status": "lançado",
+  "cover": "Capa Nightmare.png",
+  "links": {
+    "spotify": "https://found.ee/NIGHTMARE"
+  }
+},
+  {
+    "name": "RESTRITO",
+    "year": "2026",
+    "status": "lançado",
+    "cover": "Capa Restrito.png",
+    "links": {
+      "spotify": "https://found.ee/RESTRITO"
+    }
+  },
+  {
+    "name": "Campeão",
+    "year": "2026",
+    "status": "lançado",
+    "cover": "Capa Campeão.png",
+    "links": {
+      "spotify": "https://found.ee/Campeao"
+    }
+  }
+  ,
+  {
+    "name": "Bentley",
+    "year": "2025",
+    "status": "lançado",
+    "cover": "Capa Bentley.png",
+    "links": {
+      "spotify": "https://found.ee/Bentley"
+    }
+   },
+  {
+    "name": "Maquiavélico",
+    "year": "2025",
+    "status": "lançado",
+    "cover": "Capa Maquiavélico.png",
+    "links": {
+      "spotify": "https://found.ee/Maquiavelico"
+    }
+  },
+  {
+    "name": "Envolvente",
+    "year": "2025",
+    "status": "lançado",
+    "cover": "Capa Envolvente.png",
+    "links": {
+      "spotify": "https://found.ee/Envolvente-1"
+    }
+    },
+  {
+    "name": "Memórias",
+    "year": "2024",
+    "status": "lançado",
+    "cover": "Capa Memórias.png",
+    "links": {
+      "spotify": "https://found.ee/Memorias-4"
+    }
+    },
+  {
+    "name": "Progressão",
+    "year": "2024",
+    "status": "lançado",
+    "cover": "Capa Progressão.png",
+    "links": {
+      "spotify": "https://found.ee/Progressao"
+    }
+    },
+  {
+    "name": "Nosso Sentimento",
+    "year": "2024",
+    "status": "lançado",
+    "cover": "Capa Nosso Sentimento.png",
+    "links": {
+      "spotify": "https://found.ee/NossoSentimento  "
+    }
+    },
+  {
+    "name": "Lado Feroz",
+    "year": "2024",
+    "status": "lançado",
+    "cover": "Capa Lado Feroz.png",
+    "links": {
+      "spotify": "https://found.ee/LadoFeroz"
+    }
+    },
+  {
+    "name": "2 Lados da Moeda",
+    "year": "2024",
+    "status": "lançado",
+    "cover": "Capa 2 Lados da Moeda.png",
+    "links": {
+      "spotify": "https://found.ee/2LadosdaMoeda"
+    }
+    },
+  {
+    "name": "Agradeço à Deus",
+    "year": "2023",
+    "status": "lançado",
+    "cover": "Capa Agradeço à Deus.png",
+    "links": {
+      "spotify": "https://found.ee/AgradecoaDeus"
+    }
+  }
+
+]
