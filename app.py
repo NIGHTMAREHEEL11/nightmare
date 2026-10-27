@@ -24,7 +24,7 @@ CONTACT_LINKS = {
     "pinterest": "https://br.pinterest.com/menordavaoriginal/",
     "x": "https://x.com/MCMenordaVA11",
     "email": "mailto:label.nightmare@gmail.com",
-
+    "telegram": "https://t.me/MCMenordaVA",
 
 }
 
@@ -1365,9 +1365,11 @@ def render_contact() -> None:
             social_link("TikTok", CONTACT_LINKS["tiktok"]),
             social_link("SoundCloud", CONTACT_LINKS["soundcloud"]),
             social_link("WhatsApp", CONTACT_LINKS["whatsapp"]),
+            social_link("Telegram", CONTACT_LINKS["telegram"]),
             social_link("Pinterest", CONTACT_LINKS["pinterest"]),
             social_link("X (Twitter)", CONTACT_LINKS["x"]),
             social_link("E-mail", CONTACT_LINKS["email"]),
+        
 
         ]
     )
